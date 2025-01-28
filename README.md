@@ -1,6 +1,6 @@
 <!--level 1-->
 
-##👋 Hi I'm Stella!
+👋 Hi I'm Stella!
 
 🎓 I studied Electrical and Computer Engineering.</br>
 👩‍💻 I love learning new technologies.
