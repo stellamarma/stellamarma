@@ -1,6 +1,7 @@
 <!--level 1-->
 
 <h3>👋 Hi I'm Stella!</h3>
+<hr/>
 
 🎓 I studied Electrical and Computer Engineering.</br>
 👩‍💻 I love learning new technologies.
@@ -8,7 +9,6 @@
 
 <h3>💻 Tech Stack</h3>
 <hr/>
-
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
