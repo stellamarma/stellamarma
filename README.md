@@ -1,6 +1,6 @@
 <!--level 1-->
 
-<h3>👋 Hi I'm Stella!</h3>
+<h3>👋 Hi, I'm Stella!</h3>
 <hr/>
 
 🎓 I studied Electrical and Computer Engineering.</br>
